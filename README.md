@@ -11,10 +11,10 @@ The project was done by [Bùi Thái Sỹ](https://github.com/sybui2004), in the 
 
 ## Software Design (UML)
 ### Class Diagram: 
-![Alt text](https://github.com/bdt-proptit/seabattle/blob/d22_bui_thai_sy/CD.png)
+![Alt text](https://github.com/sybui2004/SEA-WAR/blob/main/CD.png)
 
 ### Activity Diagram:
-![Alt text](https://github.com/bdt-proptit/seabattle/blob/d22_bui_thai_sy/AD.png)
+![Alt text](https://github.com/sybui2004/SEA-WAR/blob/main/AD.png)
 
 ## Installation
 
@@ -29,11 +29,10 @@ The project was done by [Bùi Thái Sỹ](https://github.com/sybui2004), in the 
 
 ## Demo Image
 
-![Alt text](https://github.com/bdt-proptit/seabattle/blob/d22_bui_thai_sy/image1.png)
+![Alt text](https://github.com/sybui2004/SEA-WAR/blob/main/image1.png)
 
-![Alt text](https://github.com/bdt-proptit/seabattle/blob/d22_bui_thai_sy/image2.png)
+![Alt text](https://github.com/sybui2004/SEA-WAR/blob/main/image2.png)
 
-![Alt text](https://github.com/bdt-proptit/seabattle/blob/d22_bui_thai_sy/image3.png)
 ## Usage
 
 - Project Structure
